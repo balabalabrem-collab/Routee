@@ -1,6 +1,18 @@
 # Routee — 1-Day Heritage Trip Planner Surabaya 🗺️
 
+<p align="center">
+  <img src="assets/images/github_banner.png" alt="Routee Banner" width="100%">
+</p>
+
 Routee adalah aplikasi perencana perjalanan warisan budaya (*heritage trip planner*) satu hari di Surabaya. Aplikasi ini dirancang untuk memudahkan wisatawan menjelajahi destinasi bersejarah, kuliner legendaris, serta menyediakan sistem penyewaan kendaraan dan layanan ojek online (RO-JEK) terpadu.
+
+---
+
+## 📸 Tampilan Aplikasi (Visual Preview)
+
+<p align="center">
+  <img src="assets/images/app_mockups.png" alt="Routee App Mockups" width="100%">
+</p>
 
 ---
 
